@@ -3,7 +3,6 @@ const test = "";
 
 
 //If the passed value is true, then true should be printed.
-
 if(test) {
   console.log(true);
 
